@@ -1,39 +1,35 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/Kr1s7on/Kr1s7on/main/SITE.md",
+  "title": "Kriston Jomari",
+  "name": "Kriston Jomari",
+  "ascii": "Kriston",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "Kr1s7on",
+    "linkedin": "kristonj"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "j.kriston@icloud.com",
+  "ps1_hostname": "puolsky",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "repo": "https://github.com/Kr1s7on/puolsky.terminal",
+  "resume_url": "https://docs.google.com/document/d/10gOEvLm4bXdZ36arxuFpENLtRP_dnNSJe3iwrm5gBxU/edit?usp=sharing",
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "background": "#F8F8F2",
+      "foreground": "#272822",
+      "yellow": "#F4BF75",
+      "green": "#A6E22E",
+      "gray": "#AE81FF",
+      "blue": "#66D9EF",
+      "red": "#F92672"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "background": "#272822",
+      "foreground": "#F8F8F2",
+      "yellow": "#F4BF75",
+      "green": "#A6E22E",
+      "gray": "#AE81FF",
+      "blue": "#66D9EF",
+      "red": "#F92672"
     }
   }
 }

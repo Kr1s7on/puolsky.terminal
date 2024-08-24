@@ -45,7 +45,7 @@ export const resume = async (args: string[]): Promise<string> => {
 
 // Donate
 export const donate = async (args: string[]): Promise<string> => {
-  return `thank you for your interest.
+  return `thank you for your interest, but no.
 `;
 };
 
@@ -106,8 +106,7 @@ directories`;
 };
 
 export const cd = async (args: string[]): Promise<string> => {
-  return `unfortunately, i cannot afford more directories.
-if you want to help, you can type 'donate'.`;
+  return `unfortunately, i cannot afford more directories.`;
 };
 
 export const date = async (args: string[]): Promise<string> => {
@@ -131,8 +130,8 @@ export const emacs = async (args?: string[]): Promise<string> => {
 };
 
 export const sudo = async (args?: string[]): Promise<string> => {
-  window.open('https://www.youtube.com/watch?v=dQw4w9WgXcQ', '_blank'); // ...I'm sorry
-  return `Permission denied: with little power comes... no responsibility? `;
+  window.open('https://youtu.be/jWu_GqHxmWQ?si=FybfMJ-B535CukPS', '_blank'); // ...I'm sorry
+  return `Permission denied: You are NOT a super user 😭`;
 };
 
 // Banner
